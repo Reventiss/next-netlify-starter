@@ -6,8 +6,11 @@ const Login = (props) => {
     <>
       <div className="login-container">
         <Head>
-          <title>Legitimate Scholarly Crocodile</title>
-          <meta property="og:title" content="Legitimate Scholarly Crocodile" />
+          <title>Login - Legitimate Scholarly Crocodile</title>
+          <meta
+            property="og:title"
+            content="Login - Legitimate Scholarly Crocodile"
+          />
         </Head>
         <img alt="image" src="/bez%20nazwy-1500w.png" className="login-image" />
         <div className="login-container1">
